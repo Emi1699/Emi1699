@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="250"/>
 </div>
 
-### Aspiring Machine Learning engineer. Have been writing code for 7 years, still learning something new every single day. 👋
+Have been writing code for over 6 years; still learning something new every single day.
 
 - 🌱 I’m currently learning Machine Learning
 
