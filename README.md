@@ -30,9 +30,6 @@
 
 ---
 
-</br>
-
-
 <div id="badges" align='center'>
   <h1>
     💬 connect with me on
