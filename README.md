@@ -1,4 +1,4 @@
-### Hi there 👋
+### Aspiring Machine Learning engineer. Have been writing code for 7 years, still learning something new every single day. 👋
 
 <!--
 **Emi1699/Emi1699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
