@@ -21,16 +21,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title='Heroku' alt='Heroku' width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title='Microsoft SQL Server' alt='Microsoft SQL Server' width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title='Unix' alt='Unix' width="60" height="60"/>&nbsp;
-  
-
 </div>
 
-</br></br>
+</br>
 
 - 🔭 currently working in the finance industry
 - 🌱 passionate about deep learning, trading, and table tennis
 
-</br></br>
+---
+
+</br>
 
 
 <div id="badges" align='center'>
@@ -43,20 +43,3 @@
 </div>
 
 
-
-
-
-<!--
-**Emi1699/Emi1699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
