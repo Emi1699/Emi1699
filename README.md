@@ -34,9 +34,12 @@
   <h1>
     💬 connect with me on
   </h1>
-    <a href="https://www.linkedin.com/in/emanuel-buliga/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    <a href="https://www.linkedin.com/in/emanuel-buliga/"
+   target="_blank" 
+   onclick="window.open(this.href,'_blank');return false;"
+   rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 </div>
 
 
