@@ -34,7 +34,7 @@
   <h1>
     💬 connect with me on
   </h1>
-    <a href="https://www.linkedin.com/in/emanuel-buliga/">
+    <a href="https://www.linkedin.com/in/emanuel-buliga/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
