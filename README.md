@@ -4,7 +4,7 @@
 <!--   <img src="https://komarev.com/ghpvc/?username=Emi1699&style=flat-square&color=blue" alt=""/> -->
   
   <h1>
-    I am Emanuel, a software engineer from Romania
+    I am Emanuel, a software engineer and all-around builder from Romania
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
