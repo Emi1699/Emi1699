@@ -2,13 +2,8 @@
   <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="250"/>
   
 <!--   <img src="https://komarev.com/ghpvc/?username=Emi1699&style=flat-square&color=blue" alt=""/> -->
-  
-  <h1>
-    I am Emanuel, a software engineer and passionate builder from Romania
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+ 
 </div>
-
 <div align='center' width='500'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title='Python' alt='Python' width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title='Bash' alt='Bash' width="60" height="60"/>&nbsp;
@@ -24,9 +19,6 @@
 </div>
 
 </br>
-
-- 🔭 currently working in the finance industry
-- 🌱 passionate about deep learning, trading, and table tennis
 
 ---
 
